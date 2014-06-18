@@ -1,0 +1,27 @@
+{
+  "name": "angular-accounting",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bulkan/angular-accounting",
+  "authors": [
+    "Bulkan Evcimen <bulkan@gmail.com>"
+  ],
+  "description": "Angular Service to wrap accounting.js",
+  "main": "dist/angular-accounting.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "accounting.js",
+    "accounting",
+    "number"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
